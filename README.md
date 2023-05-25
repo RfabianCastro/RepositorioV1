@@ -1,2 +1,1 @@
-# RepositorioV1
-Inicio Proyecto
+Este proyecto es una prueba del estudio de desarrollo profesional de Software y el uso de nuevas herramientas.
